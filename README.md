@@ -30,7 +30,7 @@ It’s a great utility for:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-repo-fetcher.git
+git clone https://github.com/AyyanYe/github-repo-fetcher.git
 cd github-repo-fetcher
 ````
 
