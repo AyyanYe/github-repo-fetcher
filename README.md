@@ -112,9 +112,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ⭐️ If you found this useful, feel free to star the repo!
-
-```
-
-Let me know if you'd also like a `LICENSE` file or `.gitignore` file to complete your repo setup.
-```
-
