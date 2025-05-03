@@ -1,6 +1,3 @@
-Here is the properly formatted `README.md` content exactly as you'd see it in a code editor:
-
-````markdown
 # 🚀 GitHub Repo Fetcher
 
 A lightweight Python script to fetch and display public repositories of any GitHub user using the [GitHub REST API](https://docs.github.com/en/rest).
